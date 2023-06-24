@@ -1,0 +1,70 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+.container {
+    /* max-width: 800px; */
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 50px;
+    width: 1000px;
+    height: 700px;
+  }
+  
+  .buttons {
+    margin-bottom: 20px;
+    color: #fff;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    color: #fff;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #fff;
+  }
+  
+  #coin-table img{
+    width:24px;
+  }
+
+  #search-input{
+    width: 500px;
+    height: 32px;
+    border: 1px solid gray;
+    background-color: black;
+    color:white;
+  }
+
+  button{
+    height: 35px;
+    background-color: black;
+    color: white;
+    border:1px solid gray;
+    padding:0px 59px;
+  }
+
+  .buttons{
+    text-align: center;
+    display: flex;
+    gap:10px;
+
+  }
+
+  table{
+    text-align: center;
+  }
